@@ -1,0 +1,16 @@
+{
+  "name": "edge_cases",
+  "description": "10 edge-case prompts testing validation and repair",
+  "prompts": [
+    "app",
+    "Build something cool",
+    "CRM with login but no authentication and no users",
+    "E-commerce with payments via Stripe and also no payment processing",
+    "Build admin dashboard only without any data entities or database",
+    "Create API-only backend with 50 different microservices and blockchain",
+    "Simple todo list with infinite nesting subtasks sub-sub-tasks recursive",
+    "Build HIPAA-compliant medical records with public anonymous access no login",
+    "Social network with friends messaging photos videos live streaming marketplace jobs",
+    "Inventory system where users can delete all data without confirmation and no audit log"
+  ]
+}

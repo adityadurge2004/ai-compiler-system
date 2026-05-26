@@ -1,0 +1,16 @@
+{
+  "name": "normal",
+  "description": "10 standard application prompts for evaluation",
+  "prompts": [
+    "Build a CRM with login, dashboard, role-based access, contacts management, and Stripe payments.",
+    "Create an e-commerce store with product catalog, shopping cart, checkout, and admin inventory panel.",
+    "Build a project management SaaS with tasks, teams, kanban boards, and email notifications.",
+    "Create a blog platform with posts, comments, categories, and author authentication.",
+    "Build a booking system for appointments with calendar, reminders, and customer profiles.",
+    "Create an inventory management app with warehouses, stock tracking, and supplier records.",
+    "Build a learning management system with courses, quizzes, student progress, and certificates.",
+    "Create a help desk ticketing system with agents, priorities, SLA tracking, and knowledge base.",
+    "Build a real estate listing platform with properties, agents, search filters, and favorites.",
+    "Create a fitness tracking app with workouts, goals, progress charts, and social sharing."
+  ]
+}
